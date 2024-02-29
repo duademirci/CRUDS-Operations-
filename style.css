@@ -34,8 +34,9 @@ input{
     color: rgb(255, 255, 255);
 }
 input:focus{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(125, 123, 123, 0.889);
     transform: scale(1.1)
+    color 
 }
 .price input{
     width: 20%;
